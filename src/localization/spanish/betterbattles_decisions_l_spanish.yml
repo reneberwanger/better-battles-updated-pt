@@ -1,0 +1,10 @@
+﻿l_spanish:
+  commander_safety_decision: "Tornar-se um Comandante Estratégico" #NT!
+  commander_safety_decision_desc: "O comandante é o soldado mais sábio de todo exército. Afastar-me dos combates e dos frequentes e perigosos acontecimentos no campo de batalha me permitiria focar em um estilo de comando mais estratégico e menos arriscado." #NT!
+  commander_safety_decision_tooltip: "Afastar-se dos perigos dos acontecimentos que podem ocorrer ao comandar um exército." #NT!
+  commander_safety_decision_confirm: "Comando mais estratégico" #NT!
+
+  commander_bold_decision: "Tornar-se um Comandante de Linha de Frente" #NT!
+  commander_bold_decision_desc: "O comandante é o soldado mais forte de todo exército. Colocar-me entre meus homens na linha de frente me permitiria entender melhor os acontecimentos que podem ocorrer na batalha, o que me permitiria melhorar mais rápido como comandante e ganhar o respeito de meus soldados." #NT!
+  commander_bold_decision_tooltip: "Colocar-se à frente dos acontecimentos que podem ocorrer ao comandar um exército" #NT!
+  commander_bold_decision_confirm: "Comandar com mais audácia" #NT!

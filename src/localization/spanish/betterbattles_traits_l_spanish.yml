@@ -1,0 +1,12 @@
+﻿l_spanish:
+  trait_bb_black_knight: "Cavaleiro Negro" #NT!
+  trait_bb_black_knight_desc: "Este personagem, materialização real de mitos e contos populares, é um Cavaleiro Negro, um guerreiro que, ao que parece, foi enviado do céu para golpear aqueles que se opõem aos justos em tempos de necessidade." #NT!
+  trait_bb_black_knight_character_desc: "A materialização na vida real dos mitos e contos populares, [ROOT.GetCharacter.GetFirstNameNoTooltip] é um Cavaleiro Negro - um guerreiro que aparentemente foi enviado do céu para golpear aqueles que se opõem aos justos em seus momentos de necessidade." #NT!
+
+  trait_bb_traumatised: "Trauma Incapacitante" #NT!
+  trait_bb_traumatised_desc: "Após vivenciar eventos na vida que chocariam qualquer pessoa sã, este personagem experimentou um acontecimento que o marcou para toda a vida, dificultando até mesmo as tarefas mais insignificantes devido ao terror recorrente e constante em sua mente." #NT!
+  trait_bb_traumatised_character_desc: "Após vivenciar eventos na vida que chocariam qualquer pessoa sã, [ROOT.GetCharacter.GetFirstNameNoTooltip] experimentou um acontecimento que o marcou para toda a vida, dificultando até mesmo as tarefas mais insignificantes devido ao terror constante que se repete em sua mente." #NT!
+
+  trait_bb_battlefield_legend: "Lenda do Campo de Batalha" #NT!
+  trait_bb_battlefield_legend_desc: "Este personagem é conhecido por sua destreza e competência como guerreiro e marechal respeitado, e por sua capacidade de superar constantemente probabilidades imensamente desfavoráveis." #NT!
+  trait_bb_battlefield_legend_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] é conhecido por sua destreza e competência como guerreiro e marechal respeitado, e por sua capacidade de superar constantemente probabilidades imensamente desfavoráveis." #NT!

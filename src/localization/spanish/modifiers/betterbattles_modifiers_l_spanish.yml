@@ -1,0 +1,50 @@
+﻿l_spanish:
+  melt: "Comandante Tático" #NT!
+  melt_desc: "Este personagem prefere tomar decisões de combate estrategicamente quando está em batalha, em vez de se envolver muito na luta." #NT!
+
+  unit: "Comandante de Linha de Frente" #NT!
+  unit_desc: "Este personagem prefere tomar decisões de combate enfrentando diretamente seus inimigos nos conflitos, permitindo que se envolva mais nos eventos que podem ocorrer na batalha." #NT!
+  legendary_warrior_modifier: "Lenda do Campo de Batalha" #NT!
+  legendary_warrior_modifier_desc: "Este personagem é conhecido por sua destreza e competência como guerreiro e marechal respeitado, e por sua capacidade de superar constantemente as probabilidades que estão muito contra ele." #NT!
+  strategic_ignorance: "Ignorância Estratégica" #NT!
+  strategic_ignorance_desc: "Este personagem ignora a experiência estratégica de seus súditos." #NT!
+  showed_experience: "Experiência Marcial Demonstrada" #NT!
+  showed_experience_desc: "Este personagem demonstrou recentemente sua experiência em batalha resolvendo uma situação estratégica difícil." #NT!
+  desperate_cowardice: "Covardia Desesperada" #NT!
+  desperate_cowardice_desc: "Este personagem mostrou recentemente sua covardia em batalha, precisando ser resgatado por seus aliados." #NT!
+  merciful_warrior: "Guerreiro Misericordioso" #NT!
+  merciful_warrior_desc: "Este personagem mostrou piedade a um inimigo mais fraco em combate." #NT!
+  ruthless_warrior: "Guerreiro Implacável" #NT!
+  ruthless_warrior_desc: "Este personagem foi implacável com um inimigo mais fraco em combate." #NT!
+  black_knight_help: "Lutou com o Cavaleiro Negro" #NT!
+  black_knight_help_desc: "Este personagem acredita ter lutado recentemente ao lado do Cavaleiro Negro, que o resgatou na batalha." #NT!
+  black_knight_search: "Em Busca do Cavaleiro Negro" #NT!
+  black_knight_search_desc: "Este personagem começou a concentrar completamente seus esforços na busca do Cavaleiro Negro depois que uma experiência em batalha o convenceu da realidade do Cavaleiro." #NT!
+  near_death_experience: "Experiência de Quase-Morte" #NT!
+  near_death_experience_desc: "Este personagem esteve recentemente em uma situação que poderia ter acabado com sua vida." #NT!
+  powerful_speaker: "Orador Poderoso" #NT!
+  powerful_speaker_desc: "Este personagem é capaz de usar sua oratória emotiva para reunir seus soldados para a batalha." #NT!
+  shy_commander: "Comandante Tímido" #NT!
+  shy_commander_desc: "Este personagem hesita em fazer discursos em batalha devido ao medo de passar vergonha." #NT!
+  successful_battlefield_treatment: "Tratamento de Campo de Batalha Bem-Sucedido" #NT!
+  successful_battlefield_treatment_desc: "Este personagem recebeu tratamento de emergência após sofrer uma ferida em combate." #NT!
+  black_knight_inspiration: "Inspiração Milagrosa" #NT!
+  black_knight_inspiration_desc: "Após ver o Cavaleiro Negro ajudar na batalha, as tropas deste personagem parecem reforçadas inconscientemente pelas forças místicas em ação." #NT!
+  learned_from_siege: "Perfeccionista da Fortificação" #NT!
+  learned_from_siege_desc: "Após passar uma fase de observação concentrada durante um recente cerco, este personagem aprendeu a melhorar a qualidade de suas próprias posses fortificadas para evitar certos eventos que facilitaram demais suas próprias tentativas de cerco." #NT!
+  castle_holdings_cutbacks: "Cortes nas Fortificações" #NT!
+  castle_holdings_cutbacks_desc: "Este personagem optou por tomar alternativas baratas ao trabalhar em suas posses no castelo para economizar dinheiro, causando um enfraquecimento temporário de suas fortalezas até que seus pedreiros locais possam repor os materiais adequados." #NT!
+  prayed_for_protection: "Oração por Proteção" #NT!
+  prayed_for_protection_desc: "Em vez de investir economicamente em suas fortificações, este personagem abandonou a mão de obra para melhorar seus castelos e optou por rezar por proteção." #NT!
+  thumping_headache: "Dor de Cabeça Latejante" #NT!
+  thumping_headache_desc: "Este personagem sofreu recentemente uma forte dor de cabeça após uma noite exaustiva e estressante que não consegue esquecer." #NT!
+  bottled_trauma: "Trauma Reprimido" #NT!
+  bottled_trauma_desc: "Este personagem tornou-se em parte emocionalmente retraído e deprimido por suas ações, levando-o a reprimir seu trauma e enterrá-lo profundamente." #NT!
+  break_from_combat: "Pausa do Combate" #NT!
+  break_from_combat_desc: "Este personagem está se retirando da linha de frente após quase morrer em combate." #NT!
+  slow_recovery: "Recuperação Lenta" #NT!
+  slow_recovery_desc: "Este personagem está se recuperando lentamente do custo da guerra." #NT!
+  raw_wounds: "Feridas em Carne Viva" #NT!
+  raw_wounds_desc: "Embora este personagem tenha se recuperado rapidamente de suas feridas, o tratamento apressado deixou suas feridas doloridas e seus membros fracos." #NT!
+  bleeding_wounds: "Feridas Sangrando" #NT!
+  bleeding_wounds_desc: "Embora este personagem tenha sido salvo da morte por uma ferida, o custo físico do tratamento deixou-o ainda sangrando e fraco até que suas feridas cicatrizem completamente." #NT!

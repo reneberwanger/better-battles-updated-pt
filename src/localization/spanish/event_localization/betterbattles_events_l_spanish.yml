@@ -1,0 +1,298 @@
+﻿l_spanish:
+
+betterbattles.test.t:0 "Evento de teste! Uau!"
+betterbattles.test.desc:0 "Este é um evento de teste."
+betterbattles.test.a:0 "Mmm... Teste."
+betterbattles.toasttest.t:0 "Teste de Toast"
+
+betterbattles.0002.t:0 "O Cerco de [bad_barony.GetName]"
+betterbattles.0002.desc:0 "Finalmente, um mensageiro corre para minha tenda, informando que as cortinas brancas caíram sobre as muralhas de [bad_barony.GetName]. Quando os portões do domínio se abrem, os sinos da igreja tocam, sinalizando a rendição, seguida pela aparição de [bad_barony_holder.GetTitledFirstName] a cavalo com alguns de seus guardas.\n\n"Eu sei quando estou derrotado" diz [bad_barony_holder.GetSheHe], após desmontar de seu cavalo e se ajoelhar diante de mim. "Só peço que poupe meu povo...""
+betterbattles.0002.a:0 "Aceito sua rendição, [bad_barony_holder.GetTitledFirstName]."
+betterbattles.0002.a.tt:0 "Você comandou com sucesso o cerco de uma Fortaleza defendida por seu detentor:"
+betterbattles.0002.b:0 "Você ousa me dizer o que fazer com minha vitória?!"
+betterbattles.0002.b.tt:0 "Você faz um exemplo de [bad_barony_holder.GetName] na frente dos moradores de [bad_barony_holder.GetHerHis]:"
+betterbattles.0002.c:0 "Talvez eu pudesse tornar esses cercos mais eficientes..."
+betterbattles.0002.c.tt:0 "Você aprende muito comandando o cerco:"
+betterbattles.0002.toastA:0 "Você aprende muito com o cerco"
+betterbattles.0002.toastB:0 "Você aprende como tornar futuros cercos mais eficientes"
+
+betterbattles.0003.t:0 "Um Cerco Interessante"
+betterbattles.0003.desc:0 "Quando o Cerco de [bad_barony.GetName] chega ao fim, sento-me e pondero os eventos que ocorreram enquanto eu comandava as decisões estratégicas do cerco. As defesas eram muito fracas? Meus homens ou armas eram muito fortes? De qualquer forma, certamente parece que algo estava errado.\n\n"Meu senhor, muitos de nossos domínios fortificados ainda usam parte da mesma tecnologia-" começa o marechal, antes de notar meu olhar de preocupação. Olho ao redor da sala e deixo claro.\n\n"Até que os desenvolvimentos tecnológicos nos permitam melhorar nossas fortalezas, devemos...""
+betterbattles.0003.a:0 ""...Investir em melhor infraestrutura!""
+betterbattles.0003.tta:0 "Você começa a gastar mais em infraestrutura de castelos para torná-los mais eficientes"
+betterbattles.0003.toasta:0 "Você gasta mais em infraestrutura"
+betterbattles.0003.b:0 ""...Guardar nosso dinheiro até podermos fazer isso!""
+betterbattles.0003.ttb:0 "Você decide economizar seu dinheiro em vez de investir em seus domínios fortificados"
+betterbattles.0003.toastb:0 "Você economiza seu dinheiro"
+betterbattles.0003.c:0 ""...Confiar na força de nossa fé!""
+betterbattles.0003.ttc:0 "Você decide colocar sua fé em poderes maiores para proteger seus reinos"
+betterbattles.0003.toastc:0 "Você reza por proteção antes de cada cerco"
+
+betterbattles.0004.t:0 "O Arco contra a Catapulta"
+betterbattles.0004.desc:0 "Após me aproximar um pouco demais da ação durante o cerco de [bad_barony.GetName], encontrei-me com um corte feio no rosto causado pela ponta de uma flecha de um inimigo sortudo. Já tive piores, mas certamente não é uma sensação agradável.\n\nVoltando ao acampamento principal sob a proteção de um escudo, acabei ficando ao lado de uma catapulta improvisada e observei enquanto ela lançava descontroladamente uma bola de pedras em direção ao arqueiro sortudo que me atingiu.\n\nSorrindo por um segundo em vingança antes de me contorcer de dor devido ao movimento do corte no meu rosto, olhei de volta para a arma de cerco. No futuro, talvez eu deva reavaliar minha posição ou equipamento durante os cercos."
+betterbattles.0004.a:0 "Tiro de sorte."
+betterbattles.0004.tta:0 "Você passa um tempo pensando sobre o que fazer da próxima vez"
+betterbattles.0004.toasta:0 "Você aprende com o cerco"
+
+betterbattles.0005.t:0 "Uma Confusão na Jaula"
+betterbattles.0005.desc:0 "Após o cerco de [bad_barony.GetName], dois homens chamaram minha atenção após serem capturados como prisioneiros, depois de terminarem de lutar freneticamente com meus recrutas usando forquilhas e uma pá. Observando-os de longe, notei que os dois estavam se agarrando, aparentemente brigando sobre um evento que aconteceu durante o cerco, antes de meus soldados entrarem nas muralhas do castelo.\n\nDepois de perguntar o que estava acontecendo, um dos guardas dos prisioneiros me informou que [special_soldier_1.GetName] descobriu que [special_soldier_2.GetName] aparentemente usou o caos do cerco para roubar seu ouro. Por outro lado, [special_soldier_2.GetName] afirma que [special_soldier_1.GetName] na verdade roubou seu ouro, e não o contrário.\n\nEmbora normalmente eu não me importasse com uma situação como essa, os dois estão gritando e berrando à noite, mantendo muitos dos meus homens acordados."
+betterbattles.0005.a:0 "Silêncio, vocês dois!"
+betterbattles.0005.tta:0 "Você tenta intimidá-los para que fiquem em silêncio"
+betterbattles.0005.desca:0 "Os dois ficam assustados e se silenciam, e seus soldados agradecem pelo descanso"
+betterbattles.0005.descb:0 "Os dois ficam ainda mais barulhentos, e todos perdem o sono"
+betterbattles.0005.descatst:0 "Os dois ficam assustados e se silenciam"
+betterbattles.0005.descbtst:0 "Os dois ficam ainda mais barulhentos"
+betterbattles.0005.b:0 "Vou fazer eles ficarem #italic realmente #!quietos."
+betterbattles.0005.btt:0 "Você ordena que ambos sejam executados:"
+betterbattles.0005.btst:0 "Eles ficam silenciosos para sempre"
+betterbattles.0005.c:0 "Vamos conversar sobre isso..."
+betterbattles.0005.ctt:0 "Você tenta parar a discussão com sua natureza diplomática"
+betterbattles.0005.2desca:0 "Você consegue acalmá-los"
+betterbattles.0005.2descb:0 "Você piora a situação"
+
+betterbattles.0102.t:0 "A Batalha de [battle_location.GetName]" #NÃO ALTERE ISSO - É usado por vários eventos
+
+betterbattles.0102.desc:0 "Enquanto a Batalha de [battle_location.GetName] continua, eu me vejo mais envolvido na luta do que o habitual. Escolhendo minhas batalhas, consigo matar alguns dos soldados inimigos, com a proteção de meus guardas e [good_knight.GetTitledFirstName]. Por um momento, me sinto indestrutível, cortando ondas de inimigos com meus soldados como um esquadrão de guerreiros de elite. Então, acontece.\n\n"Meu [player_commander.GetLadyLord]!" grita uma voz familiar, enquanto se joga na minha frente e recebe um golpe fatal destinado ao meu peito. O golpe veio de [bad_knight.GetTitledFirstName], que arranca sua lâmina do corpo sem vida e ensanguentado de [good_knight.GetTitledFirstName] e avança em minha direção com intenção mortal."
+
+betterbattles.0102.a:0 "Você vai pagar por isso, [bad_knight.GetTitledFirstName]!"
+betterbattles.0102.a.success:0 "Eu vingo [good_knight.GetTitledFirstName] matando [bad_knight.GetTitledFirstName] em combate"
+betterbattles.0102.a.stalemate:0 "Eu e [bad_knight.GetTitledFirstName] nos ferimos até que não possamos mais lutar"
+betterbattles.0102.a.failure:0 "[bad_knight.GetTitledFirstName] me derrota em combate singular"
+
+betterbattles.0102.b:0 "Guardas! Comigo!"
+betterbattles.0102.b.tt:0 "Seus guardas vêm resgatá-lo:"
+
+betterbattles.0103.desc:0 "Enquanto [bad_knight.GetTitledFirstName] avança em minha direção, dou um passo para trás, com a lâmina pronta. Brandindo sua espada violentamente em meu peito, bloqueio perfeitamente e perfuro [bad_knight.GetHerHim] no ombro do braço da espada. Enquanto [bad_knight.GetSheHe] grita de dor, incapaz de revidar, puxo minha lâmina para o lado e a balanço através da base do pescoço de [bad_knight.GetHerHis].\n\nA cabeça de [bad_knight.GetTitledFirstName] rola no chão à minha frente, com olhos e boca ainda se movendo freneticamente. Paro momentaneamente para fazer uma oração por [good_knight.GetTitledFirstName], mas sei que agora não é hora de luto. Volto à batalha, abalado, mas vivo."
+
+betterbattles.0103.tt:0 "Pelo menos vinguei a morte de [good_knight.GetTitledFirstName]..."
+
+betterbattles.0103.a:0 "Eu venci... Mas a que custo?"
+
+betterbattles.0104.desc:0 "Enquanto [bad_knight.GetTitledFirstName] avança em minha direção, dou um passo para trás, com a lâmina pronta. Brandindo sua espada violentamente em meu peito, consigo desviar o golpe para meu braço fraco, permitindo-me continuar lutando. [bad_knight.GetTitledFirstName] ataca novamente, mas eu bloqueio perfeitamente o golpe e contra-ataco com uma estocada no estômago. [bad_knight.GetSheHe] chora de dor, enquanto eu faço outro corte no braço de [bad_knight.GetHerHis], mas não consigo bloquear o golpe de volta no meu braço da espada.\n\nNossos olhos se encontram por um segundo, sabendo que continuar lutando seria uma garantia mútua de morte, e somos engolfados por nossas forças avançando e se chocando umas com as outras, enquanto desaparecemos de volta para a retaguarda de nossos exércitos para tratamento."
+
+betterbattles.0104.a:0 "Da próxima vez [bad_knight.GetTitledFirstName] não terá tanta sorte..."
+betterbattles.0104.a.tt:0 "Foi uma boa luta, no entanto."
+
+betterbattles.0105.desc:0 "Enquanto [bad_knight.GetTitledFirstName] avança em minha direção, dou um passo para trás, com a lâmina pronta. Brandindo sua espada violentamente em meu peito, sou jogado de costas na lama, pois a força do golpe de [bad_knight.GetTitledFirstName] me derruba. Lutando para me levantar, limpo meus olhos e olho ao redor, mas [bad_knight.GetTitledFirstName] não está em lugar nenhum.\n\nEntão, sinto uma dor aguda no peito, e ao olhar para baixo, vejo a ponta da lâmina de [bad_knight.GetTitledFirstName] saindo do meu peito. Quando a lâmina desaparece dentro de mim, vejo o sangue jorrando do ferimento, antes que uma dor atinja meu pescoço e minha cabeça seja cortada do meu corpo. Sinto minha orelha bater na lama, enquanto observo meu corpo cair de joelhos antes de desabar no chão. [bad_knight.GetTitledFirstName] cospe no chão antes de se virar para continuar o restante da batalha."
+
+betterbattles.0105.a:0 "Tudo aconteceu tão rápido..."
+
+betterbattles.0106.desc:0 "Enquanto [bad_knight.GetTitledFirstName] avança em minha direção, dou um passo para trás, permitindo que meus guardas me cubram enquanto recolho meus pensamentos. Quando o resto dos meus homens encurrala [bad_knight.GetTitledFirstName] em um espaço limitado, volto e dou o golpe final.\n\nEnquanto [bad_knight.GetTitledFirstName] jaz morto no chão à minha frente, alguns dos meus homens me olham com decepção antes de eu ordenar que retornem à força de combate principal."
+betterbattles.0106.a:0 "Tudo é justo no amor e na guerra."
+betterbattles.0106.tt:0 "Não é covardia, é tática... Certo?"
+
+betterbattles.0107.desc:0 "Notando um ponto fraco em nossa linha, movo minha guarda pessoal para ajudar os homens antes que o ponto fraco se transforme em um ponto de ruptura.\n\nEnquanto eu e meus homens lutamos para repelir os inimigos, noto um confronto particularmente violento acontecendo a uma curta distância à minha direita. [good_knight.GetTitledFirstName] está cercado por alguns soldados inimigos e está lutando desesperadamente contra probabilidades significativas. Embora eu tenha fé na habilidade de luta de [good_knight.GetTitledFirstName], não acho que [good_knight.GetSheHe] vá resistir enquanto estiver em menor número."
+betterbattles.0107.ajh:0 "Saia do caminho, [good_knight.GetTitledFirstName]. Eu cuidarei disso."
+betterbattles.0107.ajh2:0 "[good_knight.GetTitledFirstName], você está seguro. Eu estou aqui."
+betterbattles.0107.ajh2.tt:0 "Você intervém e dizima os atacantes:"
+betterbattles.0107.ajh.tt:0 "Você usa sua experiência de combate para dizimar os atacantes:"
+betterbattles.0107.a:0 "Mesmo contra probabilidades significativas, devo ajudar [good_knight.GetTitledFirstName]."
+betterbattles.0107.b:0 "Eu estaria arriscando muito por muito pouco..."
+betterbattles.0107.a.tt:0 "Você arrisca sua vida para salvar [good_knight.GetTitledFirstName]:"
+betterbattles.0107.b.tt:0 "Você sabe que poderia ter feito algo..."
+betterbattles.0107.a.death:0 "Você morre lutando para proteger [good_knight.GetTitledFirstName]"
+betterbattles.0107.a.rescue:0 "Você consegue defender [good_knight.GetTitledFirstName] dos atacantes e salvar sua vida"
+
+betterbattles.0108.desc:0 "Depois de resistirmos por um curto período, [good_knight.GetTitledFirstName] e eu logo somos sobrecarregados pelos numerosos inimigos que nos atacam. Assisto, impotente, enquanto me defendo, enquanto [good_knight.GetTitledFirstName] é golpeado no abdômen, suas entranhas derramando-se no chão. "[good_knight.GetTitledFirstName]! Não!" Grito, cheio de raiva, enquanto corto outro inimigo para alcançá-lo.\n\nMinha raiva, no entanto, rapidamente me esgota. Fico cansado, lento e lento enquanto mais alguns homens correm para tentar me finalizar. Enquanto olho para o corpo inerte de [good_knight.GetTitledFirstName], sou atingido pela lâmina de um inimigo. Depois dois. Depois outro golpe atinge minha perna e caio no chão, segurando minha garganta que foi cortada pela lâmina de um quarto inimigo.\n\nEnquanto minha visão escurece, percebo que estou deitado ao lado de [good_knight.GetTitledFirstName] no chão, antes que tudo fique preto."
+betterbattles.0108.a:0 "Lutei até o fim."
+
+betterbattles.0109.desc:0 "Correndo para ajudar [good_knight.GetTitledFirstName], corto três dos inimigos desavisados ao seu redor com facilidade. Quando [good_knight.GetSheHe] percebe meus esforços para ajudar, [good_knight.GetSheHe] ganha um segundo fôlego de esperança, lutando com mais força à medida que me aproximo. "[player_commander.GetTitledFirstName], devo-lhe minha vida", diz [good_knight.GetTitledFirstName], enquanto uma pausa na luta nos permite recolher nossos pensamentos. "Não é nada", digo a [good_knight.GetHerHim], ligeiramente ofegante, mas vivo. "Você é um dos meus, cuidamos uns dos outros", acrescento, antes de limpar minha espada e voltar para a batalha.\n\nAo olhar por cima do ombro, noto [good_knight.GetTitledFirstName] me seguindo de longe, garantindo que minhas costas estejam protegidas. Certamente ganhei a lealdade devota de [good_knight.GetHerHis]."
+betterbattles.0109.a:0 "Qualquer coisa por um dos meus súditos."
+
+betterbattles.0110.desc:0 "Enquanto [good_knight.GetTitledFirstName] continua a lutar sozinho contra até cinco soldados inimigos, tento desesperadamente encontrar outra luta para me ocupar dos gritos desesperados e gestos vindos da direção de [good_knight.GetTitledFirstName].\n\nEnquanto luto em outras áreas da linha de frente, não posso deixar de notar depois de um tempo a quietude de [good_knight.GetTitledFirstName] e como eu poderia ter feito algo."
+betterbattles.0110.a:0 "Sinto muito, [good_knight.GetTitledFirstName]."
+
+betterbattles.0111.t:0 "A Criação de uma Lenda"
+betterbattles.0111.desc:0 "Carregando para o meio da batalha, levanto minha lâmina e decapito um dos maiores inimigos com um único golpe. Alguns dos outros atacantes param, atordoados, enquanto empurro [good_knight.GetTitledFirstName] para o lado e preparo minha lâmina para os outros.\n\nAlguns deles avançam em minha direção, e eu imediatamente entro em ação. Um cai, o abdômen cortado. Outro tropeça nervosamente em minha direção, antes de eu esmagar o punho da minha espada em seu crânio e então cravar minha lâmina em seu peito. Mais um avança contra mim, me derrubando no chão, mas quando ele mergulha com seu martelo de guerra para me esmagar, eu rolo para o lado e corto seu braço.\n\nO inimigo sem braço grita de agonia, contorcendo-se no chão, enquanto me levanto e lanço um olhar feroz para os outros atacantes que agora estão aterrorizados e se olham desconfortáveis. Colocando meu pé no peito do soldado sem braço que grita, seguro-o enquanto cravo a ponta da minha espada em seu pescoço. Enquanto arrasto minha espada de seu cadáver, giro a arma em minha mão e avanço em direção aos inimigos que observam, que fogem de medo. "[player_commander.GetTitledFirstName], devo-lhe minha vida", diz [good_knight.GetTitledFirstName], ao lado de vários outros cavaleiros que estão igualmente atônitos com minha performance. Este será definitivamente um momento pelo qual serei lembrado."
+betterbattles.0111.a:0 "Homens, comigo! Avançar!"
+
+betterbattles.0112.desc:0 "De pé na colina, observando a Batalha de [battle_location.GetName] a uma curta distância da linha de frente, eu e [good_knight.GetTitledFirstName] observamos os movimentos das forças inimigas. Tudo está indo conforme o planejado, de acordo com o que organizei no início da batalha, quando de repente [good_knight.GetTitledFirstName] se vira para mim e aponta uma investida inesperada do inimigo na seção mais fraca de nossa força principal.\n\n"Devemos reposicionar nossos homens para defender essa investida", diz [good_knight.GetSheHe], antes de pedir para ir [good_knight.GetHerselfHimself] para ajudar a comandar as mudanças táticas necessárias."
+betterbattles.0112.a:0 "Eu cuidarei disso, [good_knight.GetTitledFirstName]."
+betterbattles.0112.a.tt:0 "Você usa seu próprio conhecimento militar para controlar o avanço inimigo:"
+betterbattles.0112.b:0 "Homens, comigo! Vamos combater fogo com fogo."
+betterbattles.0112.b.tt:0 "Você pessoalmente lidera um contra-ataque contra o avanço inimigo:"
+betterbattles.0112.c:0 "[good_knight.GetTitledFirstName], vá e resolva essa bagunça."
+betterbattles.0112.c.tt:0 "[good_knight.GetTitledFirstName] tenta comandar a defesa do ataque:"
+betterbattles.0112.d:0 "[good_knight.GetTitledFirstName], eu sou o comandante aqui."
+betterbattles.0112.d.tt:0 "Você e [good_knight.GetTitledFirstName] auxiliam na defesa sob seu comando:"
+betterbattles.0112.a.success:0 "Você defende com sucesso o ataque inimigo"
+betterbattles.0112.a.failure:0 "Você falha em defender o ataque inimigo"
+betterbattles.0112.b.success:0 "O contra-ataque paralisa o avanço inimigo"
+betterbattles.0112.b.failure:0 "O contra-ataque falha"
+betterbattles.0112.b.knightsuccess:0 "[good_knight.GetTitledFirstName] defende com sucesso o ataque inimigo"
+betterbattles.0112.b.knightfailure:0 "[good_knight.GetTitledFirstName] falha em defender o ataque inimigo"
+
+betterbattles.0113.desc:0 "À medida que a força inimiga avança em nossa linha de frente, retiro lentamente as forças da base de seu avanço para permitir que seu principal grupo de soldados pressione. [good_knight.GetTitledFirstName] olha para mim incrédulo, confuso sobre por que permiti que o ataque continuasse. Eu me viro para [good_knight.GetHerHim] e faço um sinal de silêncio enquanto [good_knight.GetSheHe] se prepara para reclamar.\n\nUma vez que o inimigo rompeu completamente, desvio meus homens para preencher a seção quebrada de nossa linha de frente, cortando a fonte do ataque e deixando o grupo de soldados invasores cercado. [good_knight.GetTitledFirstName] fica em silêncio, enquanto ordeno que meus homens apertem o cerco aos soldados atacantes, eliminando o ataque inimigo."
+betterbattles.0113.a:0 "Sua falta de fé é perturbadora, [good_knight.GetTitledFirstName]."
+
+betterbattles.0114.desc:0 "À medida que a força inimiga avança em nossa linha de frente, retiro lentamente as forças da base de seu avanço para permitir que seu principal grupo de soldados pressione. [good_knight.GetTitledFirstName] olha para mim incrédulo, confuso sobre por que permiti que o ataque continuasse. Eu me viro para [good_knight.GetHerHim] e faço um sinal de silêncio enquanto [good_knight.GetSheHe] se prepara para reclamar.\n\nUma vez que o inimigo rompeu completamente, ordeno que meus homens apertem dos dois lados da brecha em nossa linha de frente, mas o inimigo canalizou reforços para a brecha para impedir que sejam cercados. [good_knight.GetTitledFirstName] geme de frustração, antes de ir consertar a bagunça que fiz."
+betterbattles.0114.a:0 "Oh, como se você tivesse feito melhor, [good_knight.GetTitledFirstName]."
+
+betterbattles.0115.desc:0 "Correndo em um sprint, lidero minha guarda pessoal até a seção frontal exposta do avanço inimigo, que está distraído pelos meus homens tentando conter a ameaça. [good_knight.GetTitledFirstName] observa, impressionado, enquanto meu contra-ataque destrói o avanço inimigo e os força de volta à sua posição original.\n\nContinuo a lutar na linha de frente para fornecer apoio até que os homens possam se reorganizar, após o que me retiro para minha posição de comando original."
+betterbattles.0115.a:0 "Viu, [good_knight.GetTitledFirstName]? A força vence a estratégia."
+
+betterbattles.0116.desc:0 "Correndo em um sprint, lidero minha guarda pessoal até a seção frontal exposta do avanço inimigo, que está distraído pelos meus homens tentando conter a ameaça. [good_knight.GetTitledFirstName] observa, preocupado, enquanto meu ataque colide com o avanço inimigo, que massacra a maioria da minha guarda pessoal com facilidade.\n\nMal me segurando na vida e sangrando profusamente, assisto impotente enquanto o avanço inimigo continua. [good_knight.GetTitledFirstName] olha para mim, antes de suspirar de decepção e se apressar para consertar a bagunça que fiz."
+betterbattles.0116.a:0 "Onde você estava, [good_knight.GetTitledFirstName]? Covarde!"
+
+betterbattles.0117.desc:0 "Depois de enviar [good_knight.GetTitledFirstName] para parar o avanço inimigo, continuo trabalhando na execução estratégica de outros planos táticos que fiz antes da batalha. Alguns minutos se passam enquanto estou distraído com outras ocorrências antes de [good_knight.GetTitledFirstName] me assustar, aparecendo ao meu lado levemente ensanguentado, mas vivo. "Você viu isso, meu [player_commander.GetLadyLord]?!" diz [good_knight.GetTitledFirstName], enquanto olho para o avanço inimigo para vê-lo demolido, e a batalha de volta ao nosso controle."
+betterbattles.0117.a:0 "Eu estava assistindo o tempo todo, [good_knight.GetTitledFirstName]. Muito impressionante."
+
+betterbattles.0118.desc:0 "Depois de enviar [good_knight.GetTitledFirstName] para parar o avanço inimigo, continuo trabalhando na execução estratégica de outros planos táticos que fiz antes da batalha. Alguns minutos se passam enquanto estou distraído com outras ocorrências antes de [good_knight.GetTitledFirstName] me assustar, aparecendo ao meu lado ensanguentado e ferido. "Meu [player_commander.GetLadyLord], eu falhei com você" diz [good_knight.GetTitledFirstName], enquanto olho para o avanço inimigo para vê-lo intacto apesar dos esforços de [good_knight.GetTitledFirstName]."
+betterbattles.0118.a:0 "Tudo bem... Eu farei isso sozinho."
+
+betterbattles.0119.desc:0 ""Siga-me, [good_knight.GetTitledFirstName]", digo, antes de sinalizar para meus guardas pessoais me seguirem na batalha. Usando minha experiência, dou comandos táticos para [good_knight.GetTitledFirstName] seguir, enquanto mantenho minha própria autoridade sobre o manuseio da situação.\n\nPor meio da minha experiência e da ajuda de [good_knight.GetTitledFirstName], conseguimos conter o avanço inimigo, e ambos começamos a nos envolver na luta com nossa linha de frente. Perco [good_knight.GetTitledFirstName] na confusão e tenho que rezar para que [good_knight.GetSheHe] consiga sair vivo. Enquanto balanço minha lâmina através de inúmeros inimigos e grito comandos, é claro que meus homens estão felizes por me ter no comando - caso contrário, eu ou [good_knight.GetTitledFirstName] poderíamos ter recebido mais do que um corte ou contusão..."
+betterbattles.0119.a:0 "Esses homens têm sorte de me ter no comando."
+
+betterbattles.0120.desc:0 ""Lá está [player_commander.GetSheHe]!" Grita uma voz sobre meu ombro. "É [player_commander.GetTitledFirstName]!" diz outra pessoa, de outra direção. "De onde eles estão vindo?" Penso, enquanto luto continuamente contra mais e mais inimigos. Após um prolongado período de combate, meus soldados próximos tentam desesperadamente me proteger, mas à medida que seus números diminuem, começo a ser atingido pela maior quantidade de inimigos.\n\nQuando o último da minha guarda pessoal cai morto no chão, olho para cima e vejo que estou cercado e separado por uma curta distância do resto do meu exército. Eles me superam em dez para um."
+betterbattles.0120.brave:0 "Gosto dessas probabilidades."
+betterbattles.0120.bravesuccess:0 "Você consegue sobreviver"
+betterbattles.0120.bravefailure:0 "Você é dominado pelos inimigos"
+betterbattles.0120.a:0 "Viva pela espada..."
+betterbattles.0120.b:0 "Deixem-me viver... Eu imploro!"
+
+betterbattles.0121.desc:0 "Em uma investida repentina, meus agressores me empurram ao mesmo tempo, lâminas e maças prontas para atacar, mas todos igualmente despreparados para o meu próprio ataque. Quando uma espada passa rapidamente à minha frente, direcionada ao meu abdômen, eu corto a mão que segura a lâmina e, no movimento ascendente seguinte do mesmo golpe, enfio minha lâmina na garganta do dono da mão.\n\nParando outro golpe com minha espada, desvio por baixo dele e pego a lâmina segurada pela mão decepada no chão, usando-a para perfurar o olho do atacante mais próximo. Viro-me para ver muitos outros inimigos se aproximando lentamente, mas com pouco tempo e duas espadas prontas, os dez ou mais inimigos logo se tornam cadáveres enlameados ao meu redor.\n\nLimpo o sangue da minha própria lâmina e deixo a outra presa no peito de seu dono original."
+betterbattles.0121.a:0 "Quem é o próximo..."
+
+betterbattles.0122.desc:0 "À medida que os inimigos convergem em minha posição, levanto minha lâmina, preparado para lutar. Um deles balança sua espada descontroladamente em minha direção, permitindo que eu pare o golpe e acerte um golpe, enquanto outro traz sua espada cortando minhas costas. Gritando de dor e raiva, viro-me e uso toda a minha força para esmagar minha espada através do torso do atacante, cortando um braço em um único golpe.\n\nSangrando muito do ferimento nas costas, continuo lutando com toda minha força, mas eventualmente fico muito lento pela perda de sangue para reagir adequadamente aos ataques que chegam. Uma lâmina se lança em meu estômago e caio de joelhos, antes de rolar de lado e derramar sangue vermelho na lama ao meu redor."
+betterbattles.0122.a:0 "Este é o fim..."
+
+betterbattles.0123.desc:0 "À medida que os inimigos convergem em minha posição, levanto minha lâmina, preparado para lutar. Um deles balança sua espada descontroladamente em minha direção, permitindo que eu pare o golpe e acerte um golpe, enquanto outro traz sua espada cortando minhas costas. Gritando de dor e raiva, viro-me e uso toda a minha força para esmagar minha espada através do torso do atacante, cortando um braço em um único golpe.\n\nEnquanto alguns dos outros atacantes se aproximam de mim, balanço minha lâmina descontroladamente em direção a eles, fazendo um corte no peito de um, que por sua vez cai para trás e derruba outro dos inimigos em sua espada, que se enfia em seu peito. Surpreso, continuo a atacar os inimigos, conseguindo matar cada um deles de alguma forma.\n\nGravemente ferido, cambaleio para longe da cena da luta - gravemente ferido, mas vivo."
+betterbattles.0123.a:0 "Tudo habilidade... Eu acho."
+
+betterbattles.0124.desc:0 "À medida que os inimigos convergem em minha posição, seguro minha lâmina com preocupação. Um deles balança sua espada descontroladamente em minha direção, permitindo que eu pare o golpe e acerte um golpe, enquanto outro traz sua espada cortando minhas costas. Gritando de dor e raiva, viro-me e uso toda a minha força para esmagar minha espada através do torso do atacante, mas a lâmina simplesmente desliza pela armadura de malha.\n\nSangrando muito do ferimento nas costas, tento lutar com toda minha força, mas fico muito lento pela perda de sangue para reagir adequadamente aos ataques que chegam. Uma lâmina se lança em meu estômago e caio de joelhos, antes de rolar de lado e derramar sangue vermelho na lama ao meu redor."
+betterbattles.0124.a:0 "...Morrer pela espada."
+
+betterbattles.0125.desc:0 "À medida que os inimigos convergem em minha posição, seguro minha lâmina com preocupação. Um deles balança sua espada descontroladamente em minha direção, permitindo que eu pare o golpe e acerte um golpe, enquanto outro me ataca por trás. Felizmente, alguns dos meus soldados ouviram meus desesperados pedidos de misericórdia e chegam a tempo de intervir na luta. Enquanto alguns deles morrem na batalha, o resto termina a luta e se vira para mim, desapontados. 'Nossas vidas são tão menos importantes que a sua, meu senhor?' um diz com raiva, enquanto os outros resmungam e lamentam a perda de seus amigos."
+betterbattles.0125.a:0 "Vivo para ver outro dia..."
+betterbattles.0125.b:0 "Nunca esquecerei este trauma..."
+
+betterbattles.0500.desc:0 "Na confusão da batalha, começo a me ver sendo puxado cada vez mais para dentro das mandíbulas do combate. Balançando minha lâmina com confiança, meus homens ficam impressionados ao ver minha experiência de combate crescer a cada morte. Embora eu nunca tivesse a intenção de ser puxado tão profundamente para o combate, agora me vejo melhorando a cada minuto de luta."
+betterbattles.0500.a:0 "Sou mais forte do que penso."
+
+betterbattles.0501.desc:0 "À medida que a batalha continua, noto que estou identificando mais e mais vulnerabilidades específicas e exploráveis na defesa do inimigo. Independentemente do resultado da batalha, certamente fiquei impressionado com as decisões táticas e estratégicas que ajudaram meu exército e seus soldados no curso da batalha."
+betterbattles.0501.a:0 "Estratégia é tudo."
+
+betterbattles.0502.desc:0 "Normalmente reservado em minha atitude em relação ao combate, eventualmente me vejo sem escolha a não ser lutar, quando o inimigo surpreendentemente avança profundamente nos flancos do meu exército. Enquanto os soldados inimigos sobem a colina de onde estou comandando, sinto uma onda de adrenalina passando pelas minhas veias, e meu reflexo normal de fugir se transforma em um impulso de atacar. Minha guarda pessoal é cercada, mas me vejo incomumente defensivo em relação aos meus soldados. Cortando inimigos um de cada vez, eventualmente saio do curto período de combate ferido, mas vivo. E melhor ainda, uma pessoa mudada."
+betterbattles.0502.a:0 "Um covarde nunca mais."
+
+betterbattles.0503.desc:0 "Envolvendo-me profundamente no caos da linha de frente da batalha, fico preocupado quando uma chuva de flechas vem voando sobre as cabeças dos inimigos e atingindo meus próprios homens.\n\nEntre os feridos, me encontro com uma flecha firmemente alojada no lado da minha órbita ocular. Chocado e atordoado, cambaleio de volta para a retaguarda do meu exército, parcialmente cego."
+betterbattles.0503.a:0 "Tive sorte de sobreviver."
+
+betterbattles.0126.desc:0 "À medida que a Batalha de [battle_location.GetName] começa a se desenrolar, encontro-me junto com alguns dos meus soldados e [good_knight.GetTitledFirstName] em uma posição mais ampla na linha de frente contra um grupo menor de inimigos separados. Enquanto continuamos a lutar contra os inimigos pressionantes, encontro-me encurralado com alguns dos meus soldados e lentamente começamos a ser cercados pelos inimigos. Após receber um golpe profundo no ombro de [good_knight.GetHerHis], [good_knight.GetTitledFirstName] se afasta para recuperar suas forças. Meus soldados conseguem repelir os atacantes, mas a maioria deles morre na luta. Um inimigo permanece e se aproxima de mim com malícia.\n\n"NÃO!" grita uma voz, do outro lado do meu agressor. Para minha surpresa, [good_knight.GetTitledFirstName] aparece e derruba o inimigo, potencialmente salvando minha vida após eu ter ficado exausto com a recente luta.\n\n"Obrigado, [good_knight.GetTitledFirstName]-" começo, mas [good_knight.GetTitledFirstName] simplesmente limpa sua lâmina e se aproxima de mim, sangrando muito. "Você é meu" [good_knight.GetSheHe] diz, girando uma espada na mão."
+betterbattles.0126.a:0 "É traição, então."
+betterbattles.0126.tt:0 "[good_knight.GetTitledFirstName] tenta te matar usando o caos da batalha como disfarce..."
+betterbattles.0126.duelsuccess:0 "Você consegue derrotar [good_knight.GetTitledFirstName]"
+betterbattles.0126.duelfailure:0 "[good_knight.GetTitledFirstName] te mata desonrosamente"
+betterbattles.0126.b:0 "Pare com essa bobagem. Você está ferido."
+betterbattles.0126.tt2:0 "Você usa isso como uma oportunidade para acabar com sua rivalidade com [good_knight.GetTitledFirstName]"
+
+betterbattles.0127.desc:0 "Depois de agitar freneticamente sua espada, [good_knight.GetTitledFirstName] rapidamente fica cansado e exausto, permitindo que eu enfie minha lâmina em seu peito. Agora derramando sangue por todos os lados, mas ainda movido por pura vingança, [good_knight.GetSheHe] cambaleia sem rumo enquanto balança sua espada cegamente na minha direção. Eventualmente, [good_knight.GetTitledFirstName] se aproxima e arranha meu rosto por sorte, antes de eu dar um chute brutal em seu peito, derrubando-o no chão.\n\nEnquanto [good_knight.GetSheHe] está deitado, engasgando com seu próprio sangue, eu me inclino e enfio minha lâmina em sua garganta."
+betterbattles.0127.a:0 "Você foi um tolo por me desafiar, [good_knight.GetTitledFirstName]."
+
+betterbattles.0128.desc:0 "Correndo em minha direção com toda sua força, [good_knight.GetTitledFirstName] me desequilibra e me manda ao chão. Enquanto [good_knight.GetSheHe] me ataca descontroladamente, contorcendo-se na lama, eu eventualmente consigo me levantar novamente. Depois de levar um golpe no joelho, tropeço em direção a [good_knight.GetHerHim], e [good_knight.GetSheHe] está pronto, com a lâmina na mão, para enfiá-la no meu peito. Caindo de joelhos, sinto o líquido quente começar a escorrer da ferida no meu peito, antes de cair no chão, sem vida.\n\n[good_knight.GetTitledFirstName] grita de excitação, antes de alguns dos meus soldados se aproximarem desesperadamente para me consolar. Embora eu esteja condenado, todos testemunharam os meios desonrosos de [good_knight.GetTitledFirstName] para me derrotar."
+betterbattles.0128.a:0 "Pelo menos encontrarei paz de [good_knight.GetTitledFirstName] na morte."
+
+betterbattles.0129.desc:0 "Depois de cambalear em minha direção, pego [good_knight.GetTitledFirstName] em meus braços enquanto [good_knight.GetSheHe] perde a consciência devido à perda de sangue. Arrastando [good_knight.GetTitledFirstName] para a retaguarda do meu exército para que seus batedores cuidem dele, sei que [good_knight.GetTitledFirstName] será grato pela minha compaixão.\n\nTalvez agora possamos superar nossas disputas sem sentido."
+betterbattles.0129.a:0 "Rivais nunca mais."
+
+betterbattles.1000.desc:0 "Do outro lado do campo de batalha, vejo [enemy_commander.GetTitledFirstName] em cima de seu cavalo. Sempre aprendi a tentar entrar na posição do inimigo, para entender melhor como ele pensa e como me preparar para seus ataques. Mas com [enemy_commander.GetTitledFirstName], não consigo imaginar nada além de ser enojado por suas visões religiosas.\n\n[enemy_commander.GetFaith.GetName] é certamente uma religião claramente falsa. Paro para pensar. Devo continuar tentando aprender a visão de [enemy_commander.GetHerHis] sobre a batalha e usar isso contra ele, ou devo afastar quaisquer pensamentos religiosos invasivos?"
+betterbattles.1000.a:0 "Talvez [enemy_commander.GetTitledFirstName] veja esta batalha de forma diferente..."
+betterbattles.1000.tt2:0 "Seus esforços são bem-sucedidos"
+betterbattles.1000.tt1:0 "Você aprende a usar a fé como motivação"
+betterbattles.1000.tt3:0 "Você aprende demais"
+betterbattles.1000.b:0 "Não vou me desviar para essa heresia!"
+betterbattles.1000.btoast:0 "Sua fé fica mais forte"
+
+betterbattles.1001.desc:0 "À medida que a batalha continua, me vejo no meio de um pequeno bolsão de combate corpo a corpo. Com a ajuda dos meus homens, esmagamos a oposição com facilidade, mas o foco da atenção estava em mim, que consegui fazer uma exibição particularmente impressionante enquanto lutava contra os inimigos implacáveis.\n\nQuando paro por um segundo para recuperar o fôlego após o ataque, noto alguns dos meus soldados observando com admiração minha impressionante demonstração de combate."
+betterbattles.1001.a:0 "Vocês não estão entretidos!?"
+betterbattles.1001.toast:0 "Seus soldados estão impressionados"
+
+betterbattles.1002.desc:0 "À medida que a batalha continua, me vejo no meio de um pequeno bolsão de combate corpo a corpo. Com a ajuda dos meus homens, esmagamos a oposição com facilidade, mas o foco da atenção estava em mim, que milagrosamente escapei da luta sem um arranhão. Embora eu tenha conseguido acertar alguns golpes nos inimigos, parece que perdi o foco e tive que ser ajudado várias vezes enquanto os inimigos começavam a me cercar.\n\nQuando paro por um segundo para recuperar o fôlego após o ataque, noto alguns dos meus soldados olhando desapontados, após uma exibição particularmente miserável de proeza."
+betterbattles.1002.a:0 "Normalmente sou melhor, eu juro!"
+betterbattles.1002.toast:0 "Seus soldados estão desapontados"
+
+betterbattles.1003.desc:0 "Indulgindo-me em combate contra alguns dos levies inimigos, encontro-me cortando suas forças mais fracas e menos treinadas com facilidade. Derrubando alguns inimigos a cada poucos minutos, os soldados ao meu lado estão igualmente empolgados, pois suas habilidades incomparáveis lhes proporcionam mortes fáceis. Eventualmente, encontro-me enfrentando um oponente um pouco mais baixo e magro, que avança freneticamente em minha direção. Dou um passo para o lado e permito que ele passe por mim, tropeçando no chão.\n\nQuando ele se levanta, seu capacete escorrega, revelando o rosto de um garoto - não mais velho que 16 anos, e sem um único pelo no rosto. Enquanto ele segura a lâmina bravamente, sei que essa luta é injusta. Devo subjugá-lo sem matá-lo ou cortá-lo como os outros?"
+betterbattles.1003.a:0 "Ele é apenas um garoto."
+betterbattles.1003.b:0 "Ele está com uma espada!"
+betterbattles.1003.toast1:0 "Você nocauteia o garoto"
+betterbattles.1003.toast2:0 "Você mata o garoto"
+
+betterbattles.1004.desc:0 "Cortando inimigos com facilidade, começo a imaginar meus inimigos como demônios, os impuros que devo abater com poder sagrado. Isso é apenas minha imaginação? É apenas adrenalina, ou medo, ou algum tipo de combinação dos dois? De qualquer forma, parece real para mim. Talvez eu esteja vendo esses demônios como uma mensagem dos céus, dizendo-me para usar minha vontade divina como meio de derrubar o inimigo?\n\nContinuo lutando, revigorado com força sagrada, enquanto avanço em direção a [bad_knight.GetTitledFirstName]."
+betterbattles.1004.a:0 "Prove minha lâmina, [bad_knight.GetTitledFirstName]!"
+betterbattles.1004.toast:0 "Você abate o impuro"
+
+betterbattles.1005.t:0 "Mitos se tornam Realidade"
+betterbattles.1005.desc:0 "À medida que a Batalha de [battle_location.GetName] continua, começo a correr mais riscos com as decisões de combate que tomo, avançando mais nas multidões de inimigos e atacando descontroladamente com minha lâmina em qualquer um por perto.\n\nMinhas ações selvagens eventualmente são notadas, e os inimigos começam a me cercar para pôr fim ao meu comportamento frenético. Ficando cansado e exausto, começo a temer o pior, ao perceber que estou completamente isolado do resto dos meus soldados. Cego pela ignorância e adrenalina, começo a entrar em pânico, exaurindo-me enquanto tento desesperadamente golpear os inimigos ao meu redor. Quando começo a ficar instável devido à exaustão, isso acontece. Sou derrubado por um inimigo que bate minha cabeça com seu escudo.\n\nPor um segundo, todo o campo de batalha é engolido pela escuridão, e a chuva começa a cair em torrentes. Na confusão, os soldados ao meu redor entram em pânico e, em vez de me atacar, começam a brigar entre si. Trovões ressoam sobre as colinas, e as nuvens giram acima, antes que um enorme raio caia do céu e atinja a terra à minha frente. Segundos após o raio desaparecer, o céu tempestuoso se abre um pouco, iluminando um círculo ao meu redor e revelando um cavaleiro em armadura preta como carvão, com vapor saindo de seu corpo enquanto a estática do raio zune ao redor de sua lâmina.\n\nAinda deitado no chão e agora em choque, observo enquanto o cavaleiro negro derruba sua lâmina nos inimigos ao meu redor e dispara cargas de relâmpagos azulados de sua espada como algum tipo de anjo negro. Ao me levantar, pego minha espada e me posiciono ao lado do cavaleiro, nós dois lutando de costas contra os inúmeros inimigos ao nosso redor.\n\n"Estou sonhando?" me pergunto, enquanto nós dois cortamos nossos inimigos com facilidade, antes de ser atingido novamente por um inimigo invisível, fazendo-me desmaiar de cara no chão.\n\n"[player_commander.GetTitledFirstName]?" uma voz diz, enquanto abro os olhos. [good_knight.GetTitledFirstName] está acima de mim, ajudando-me a levantar. Enquanto olho ao redor, os inimigos que me cercaram desapareceram. "O Cavaleiro Negro... Onde ele foi?" pergunto, ao que [good_knight.GetTitledFirstName] responde com uma expressão confusa. "Você machucou sua cabeça, meu senhor" [good_knight.GetTitledFirstName] explica. Procuro por qualquer vestígio do cavaleiro, antes de segurar o lado da minha cabeça, que está levemente sangrando. Sorrindo para mim mesmo, limpo o sangue da minha mão. "[good_knight.GetTitledFirstName], onde está o cavaleiro?" pergunto, mas não recebo resposta, apenas [good_knight.GetTitledFirstName] pedindo ajuda para me levar ao médico. "Eu não estou louco!" grito, antes de dispensar a ajuda de [good_knight.GetTitledFirstName] e correr de volta ao acampamento de guerra."
+betterbattles.1005.a:0 "Alguém mais viu aquilo!?"
+betterbattles.1005.toast:0 "Foi real para você..."
+betterbattles.1005.tt0:0 "Você consegue se convencer de que foi apenas um sonho"
+betterbattles.1005.tt1:0 "Ninguém acredita na sua história do que aconteceu"
+betterbattles.1005.tt2:0 "Você perde a sanidade tentando justificar o que aconteceu"
+black_knight_decision_unlock:0 "#help Uma decisão estará disponível para procurar pelo Cavaleiro Negro#! por 5 anos"
+
+betterbattles.1006.desc:0 "À medida que a batalha avança, tiro um tempo para me afastar do combate e observar minhas forças e as decisões táticas que talvez eu precise tomar para garantir a vitória. Durante o tempo em que observo o potencial estratégico do exército, noto um punhado de combatentes das minhas próprias tropas fazendo progressos significativos na ala da investida inimiga - um indivíduo em particular chama minha atenção, enquanto o observo derrubar quatro oponentes sozinho. Olhando de um lado para o outro, observo o restante do meu exército e pondero que talvez eu precise de sangue novo para minhas fileiras em algum momento. Enquanto olho para o jovem soldado lutando corajosamente, me pergunto se devo considerar suas habilidades como combatente."
+betterbattles.1006.a:0 "Quem é esse? Tragam-no para mim!"
+betterbattles.1006.tt:0 "O lutador se junta à sua corte"
+betterbattles.1006.b:0 "Meus lutadores já são bons o suficiente."
+betterbattles.1006.toast1:0 "[special_soldier.GetTitledFirstName] junta-se às suas fileiras"
+betterbattles.1006.toast2:0 "Seus soldados apreciam sua confiança"
+
+betterbattles.1007.desc:0 "À medida que a batalha continua, percebo que há vários pontos fracos em nossa linha de frente que são particularmente vulneráveis a um ataque de ponta de lança do inimigo. Gritando para meus homens cobrirem a área enfraquecida, minha voz falha, e percebo que eles não poderão me ouvir.\n\n"Rápido!" digo aos homens ao meu redor. "Vocês precisam vir comigo" ordeno, e os direciono para o ponto fraco. Quando chegamos, o inimigo já começou a investir na brecha vulnerável da linha, então eu reúno os homens para se prepararem para a carga. Enquanto resistimos, ouço um general inimigo gritar uma ordem abafada, seguida pelos gemidos de vários soldados inimigos. "O que foi esse som?" penso, antes que uma chuva de lanças e dardos comece a descer sobre os ombros da investida inimiga.\n\nQuando os projéteis atingem os homens ao meu redor, um passa raspando pela minha cabeça, incrivelmente perto de penetrar meu crânio. Ao me virar em choque, vejo a mesma lança destinada à minha cabeça alojada no peito de um soldado morto atrás de mim. Atordoado e chocado, cambaleio para longe da investida inimiga, em uma mistura nauseante de medo e choque. Isso poderia ter sido eu."
+betterbattles.1007.a:0 "Isso foi por pouco. Muito por pouco."
+betterbattles.1007.toast:0 "Você percebe quão perto da morte esteve"
+betterbattles.1007.tt1:0 "Você fica traumatizado, mas permite-se continuar na linha de frente do combate"
+betterbattles.1007.tt2:0 "#N Você estará em risco de novos eventos que podem traumatizá-lo ainda mais... #!"
+betterbattles.1007.b:0 "Devo fazer uma pausa de tanto perigo."
+betterbattles.1007.toastb:0 "Você descansa do combate na linha de frente"
+
+betterbattles.1009.t:0 "O Inimigo Interior"
+betterbattles.1009.desc:0 "Avançando com meus companheiros soldados, encontro-me liderando a maior parte de uma seção de nossa força de ataque sozinho, antes de notar um evento que já havia visto muitas vezes. Observo, enquanto o comandante inimigo levanta a mão e a puxa para baixo, sinalizando para suas unidades de arqueiros dispararem.\n\n"PREPAREM-SE!" eu grito, antes de ficar horrorizado com a aparentemente interminável chuva de lanças e flechas que desce sobre os soldados ao meu redor. Os projéteis atingem a perna de um dos meus guardas pessoais, incapacitando-o e derrubando-o, antes que um cavaleiro inimigo passe correndo e decapite seu corpo gritando. A cabeça rola na minha frente, seus olhos fixos nos meus.\n\nChocado, fico parado, antes de ser atacado por outro guerreiro inimigo que lança sua arma em minha direção, errando, e esmagando o rosto ainda se movendo do meu guarda decapitado no chão com um ruído ressonante.\n\nEnquanto o guerreiro se prepara para me atacar novamente, a lâmina de um dos meus outros guardas perfura a parte de trás de seu pescoço. Protrudindo de sua boca como uma língua de aço cinzento, rapidamente se torna um vermelho viscoso com sangue que jorra de sua boca e atinge meu rosto.\n\nO corpo do guerreiro cai no chão sem vida, e quando olho para cima, vejo o guarda que me resgatou ser cortado no abdômen por outro inimigo, espalhando suas entranhas no chão enquanto ele desesperadamente tenta colocá-las de volta dentro de seu ferimento aberto.\n\nSinto-me entrando em choque, antes de cambalear para a retaguarda da batalha."
+betterbattles.1009.a:0 "Saia de perto de mim!"
+betterbattles.1009.toastA1:0 "Os rostos dos mortos ficam gravados na parte de trás das suas pálpebras para sempre"
+betterbattles.1009.toastA2:0 "Você começa a enfrentar todas as situações com hostilidade imediata"
+betterbattles.1009.b:0 "Não devo deixar que essas coisas me afetem."
+betterbattles.1009.toastB1:0 "Você é forçado a conter suas emoções"
+betterbattles.1009.toastB2:0 "Você aprende a se desligar emocionalmente das situações"
+betterbattles.1009.c:0 "AAAH! MAMÃE?!"
+betterbattles.1009.toastC:0 "Com a covardia vem o horror da guerra..."
+betterbattles.1009.d:0 "Como vou esquecer isso..."
+betterbattles.1009.toastD1:0 "Sua falha em compreender os horrores faz com que eles corrompam sua mente"
+betterbattles.1009.toastD2:0 "Você consegue entender brevemente o que aconteceu sem deixar que isso te destrua"
+betterbattles.1009.toastD3:0 "Você fica permanentemente traumatizado"
+
+betterbattles.1010.desc:0 "Após um breve confronto com um guerreiro do exército inimigo, fica claro para nós dois que sou o lutador mais proficiente. Depois de travarmos armas, consigo cortar o rosto de [random_levy_enemy.GetHerHis] profundamente em uma das órbitas dos olhos. O sangue jorra.\n\nO soldado cai no chão, aterrorizado, antes de se arrastar desesperadamente para pegar sua arma. Antes que [random_levy_enemy.GetSheHe] possa fazer qualquer coisa, eu cravo meu machado na parte de trás da mão de [random_levy_enemy.GetHerHis], prendendo o braço de [random_levy_enemy.GetHerHis] no chão de terra sob nossos pés.\n\n"Basta! Eu me rendo!" grita o soldado, enquanto dou alguns passos à frente. Eu puxo a espada da mão de [random_levy_enemy.GetHerHis]."
+betterbattles.1010.a:0 "Você pagará por sua covardia."
+betterbattles.1010.toastA1:0 "Você executa o soldado"
+betterbattles.1010.toastA2:0 "O soldado consegue escapar"
+betterbattles.1010.b:0 "Voe, seu tolo."
+betterbattles.1010.toastB:0 "Você permite que o soldado escape:"
+betterbattles.1010.B1:0 "Suas ações misericordiosas te tranquilizam"
+betterbattles.1010.B2:0 "Você tenta ser mais compassivo no futuro"
+
+betterbattles.0130.desc:0 "Firme diante do inimigo, meus soldados lutaram valentemente até agora na Batalha de [battle_location.GetName], mas estão lentamente ficando cansados enquanto seus adversários pressionam cada vez mais em fúria contra sua derrota. Após um período prolongado de combate e um forte contra-ataque inimigo, meus homens estão cambaleando, exaustos e em extrema necessidade de motivação.\n\nVendo a oportunidade de fornecer alguma inspiração, eu avanço para dar aos meus guerreiros um discurso empolgante, para revigorá-los e restaurar seu ímpeto para continuar lutando contra um inimigo difícil. Uma vez que me posiciono, começo a ponderar o que posso dizer, enquanto alguns dos meus soldados param de lutar para me observar com admiração..."
+betterbattles.0130.a:0 "Atenção às minhas palavras, meus bravos soldados..."
+betterbattles.0130.b:0 "Eu- Hm- Cof cof... Continuem!"
+betterbattles.0130.tt:0 "Você percebe que talvez oratória não seja seu ponto forte..."
+betterbattles.0130.good:0 "Seu discurso impressiona seus soldados"
+betterbattles.0130.reallygood:0 "Seu discurso inspira profundamente seus soldados"
+betterbattles.0130.bad:0 "Seu discurso é tão ruim que você perde sua autoconfiança"
+betterbattles.0130.toast:0 "Você perde a oportunidade de fazer um discurso"
+
+betterbattles.0131.desc:0 "Após um resumo do terreno comum entre mim e meus homens, e algumas palavras motivacionais sobre integridade e família, começo a notar alguns dos meus soldados assentindo em concordância enquanto o inimigo se aproxima lentamente. Terminando com um grito de guerra que é ecoado por meus guerreiros, eu grito para atacar o inimigo, com meus lutadores correndo ao meu lado. Parece que meu discurso funcionou."
+betterbattles.0131.a:0 "Comigo! Ataquem!"
+
+betterbattles.0132.desc:0 "Alguns de vocês são agricultores, nascidos nos celeiros que alimentam nossa nação. Alguns de vocês são aldeões, nas cidades onde vivemos e nos tornamos as pessoas que somos agora. Alguns de vocês, como eu, foram criados por nossos pais e avós para não mostrar misericórdia à escória que possa ameaçar nossos irmãos e irmãs e as famílias que temos em casa, as mesmas pessoas que comem de nossas fazendas, vivem em nossas aldeias e criam nossos filhos.\n\n"Hoje lutamos por essas pessoas, por essas almas que não sabem nada dos horrores que enfrentamos neste campo de batalha hoje. Talvez hoje seja o dia em que vejo os céus, e talvez o seu venha logo depois. Que nos encontremos nesse reino como guerreiros, indiferentes à força de nossos inimigos! Lutamos até o fim, inabaláveis pelas tempestades que abalam montanhas até o chão! Ficamos ilesos pelos fogos de demônios que podem queimar nossas almas! Ficamos agora, juntos, e lutamos! Vocês estão comigo!?"\n\nEu trovejo para meus soldados, que começam a gritar em antecipação ao combate que se aproxima. Enquanto levanto minha espada, o estrondo dos passos ao meu lado interrompe o avanço inimigo, e até faz alguns recuarem, aterrorizados pela fúria cega que instilei em meus guerreiros."
+betterbattles.0132.a:0 "Inabaláveis, inquebráveis, invulneráveis! Ataquem!"
+
+betterbattles.0133.desc:0 "Ao clarear minha garganta para começar meu discurso, imediatamente engasgo com minha própria saliva, me lançando em um acesso de tosse e engasgo. Meus soldados observam desinteressados, enquanto eu limpo a garganta repetidamente durante os estágios iniciais do meu discurso, tornando a seção introdutória essencialmente não inspiradora.\n\nDepois que termino meu período de engasgo, percebo que não consigo pensar em outras palavras que possam trazer algum tipo de motivação às minhas forças, e começo a entrar em pânico. Felizmente, porém, a atenção ao meu discurso desastroso é desviada pelo iminente ataque inimigo que eu originalmente tentava preparar meus soldados para enfrentar."
+betterbattles.0133.a:0 "Graças a Deus que acabou. Nunca mais."
+
+betterbattles.999.desc:0 "Depois de recuar do combate imediato para avaliar minha situação, noto os danos que meu corpo recebeu. Embora não seja absolutamente letal, certamente é algo a ser preocupado.\n\nNotando minha preocupação, meu guerreiro, [good_knight.GetTitledFirstName], se apressa, convencido de que [good_knight.GetSheHe] tem treinamento suficiente no campo médico para me dar atenção de emergência em meio à batalha."
+betterbattles.999.a:0 "Você não está qualificado para isso, [good_knight.GetTitledFirstName]."
+betterbattles.999.b:0 "Faça o que puder."
+betterbattles.999.good:0 "[good_knight.GetTitledFirstName] realiza um milagre"
+betterbattles.999.okay:0 "O tratamento ajuda bastante"
+betterbattles.999.bad:0 "[good_knight.GetTitledFirstName] piora a lesão"
+
+betterbattles.0504.desc:0 "Balançando minha lâmina de um lado para o outro, sinto-me cada vez mais confiante com minhas habilidades como guerreiro em meio à batalha que estou lutando. É assim que se sente ser imparável?\n\nDe repente, sou trazido de volta à realidade quando desvio por pouco de um golpe de um espadachim inimigo. O golpe que originalmente estava destinado ao lado da minha cabeça, em vez disso, raspa meu rosto, deixando-me atordoado e sangrando."
+betterbattles.0504.a:0 "Não tão imparável quanto pensei."
